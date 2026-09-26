@@ -1,0 +1,12 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local artifacts
+*.pth
+*.pt
+*.log
+.DS_Store
