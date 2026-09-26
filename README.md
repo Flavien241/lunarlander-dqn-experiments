@@ -18,6 +18,10 @@ pip install -r requirements.txt
 jupyter notebook TPDQN.ipynb
 ```
 
+## Included artefacts
+
+The repository includes DQN architecture diagrams, a LunarLander environment illustration, and `monAgentDQN.pth`, a saved PyTorch checkpoint from the coursework run.
+
 ## Context
 
 Coursework completed at Polytech Lyon with a teammate. It demonstrates implementation and empirical comparison of standard DQN mechanisms; it does not claim a new reinforcement-learning algorithm.
